@@ -1,0 +1,21 @@
+Plant_ID,Species,Common_Name,Target_Metal,Min_pH_Tolerance,Max_pH_Tolerance,Max_Accumulation_ppm,Plant_Efficiency,Growth_Rate_months,Biomass_kg_per_plant,Maintenance_Cost_USD
+PLANT_000,Alyssum murale,Murale Alyssum,Ni,5.0,7.8,25000,0.92,18,1.2,50
+PLANT_001,Berkheya coddii,Coddi Berkheya,Ni,5.5,7.5,22000,0.88,20,1.0,45
+PLANT_002,Silene vulgaris,Bladder Campion,Zn,5.2,8.0,15000,0.85,16,0.8,40
+PLANT_003,Arabidopsis halleri,Alpine Pennycress,Zn,5.0,7.8,18000,0.87,19,0.9,45
+PLANT_004,Pteris vittata,Chinese Brake Fern,As,5.5,8.2,8000,0.78,24,0.5,30
+PLANT_005,Thlaspi caerulescens,Alpine Pennycress Alt,Zn,5.1,7.9,12000,0.84,17,,42
+PLANT_006,Brassica juncea,Indian Mustard,Pb,5.0,8.0,9000,0.8,15,0.95,48
+PLANT_007,Hypericum spp.,Hypericum,Cu,5.3,7.6,5000,0.75,22,0.6,35
+PLANT_008,Haumaniastrum katangense,Katanga Weed,Cu,5.2,7.5,8500,0.82,21,0.7,40
+PLANT_009,Noccaea goesingense,Mountain Penny-cress,Zn,5.0,8.0,14000,0.86,18,0.88,44
+PLANT_010,Isatis tinctoria,Woad,Cd,4.8,8.1,10000,0.8,16,0.75,41
+PLANT_011,Viola baoshanensis,Violet,Pb,5.0,7.8,7500,0.76,20,0.65,38
+PLANT_012,Noccaea caerulescens,Caerulescens Pennycress,Zn,5.1,8.0,13000,1.05,19,0.82,43
+PLANT_013,Macroptilium atropurpureum,Purple Hull Bean,Ni,5.0,7.7,20000,0.89,17,1.1,49
+PLANT_014,Ricinus communis,Castor Bean,Se,5.5,8.0,6000,0.72,14,0.7,35
+PLANT_015,Eichhornia crassipes,Water Hyacinth,As,5.3,8.0,4500,0.7,12,0.4,25
+PLANT_016,Typha latifolia,Cattail,Pb,5.0,8.1,6500,0.74,18,0.6,38
+PLANT_017,Salvinia natans,Salvinia,Cd,5.2,7.9,8000,0.78,15,0.55,33
+PLANT_018,Azolla filiculoides,Azolla,As,5.4,8.3,5500,0.71,13,0.5,28
+PLANT_019,Spiranthes sinensis,Spiranthes,Pb,5.1,7.9,7000,0.77,19,0.68,39

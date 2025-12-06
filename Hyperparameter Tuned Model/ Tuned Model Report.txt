@@ -1,0 +1,38 @@
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║           GREENMETALAI - HYPERPARAMETER TUNED MODEL REPORT               ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+🎯 BEST MODEL SELECTED: XGBoost (Tuned)
+
+📊 PERFORMANCE METRICS
+   Test Accuracy: 0.8235 (82.35%)
+   Precision: 0.6782
+   Recall: 0.8235
+   F1-Score: 0.7438
+
+🔧 HYPERPARAMETER TUNING
+   Method: GridSearchCV with 5-fold cross-validation
+   Parameters tuned: 5
+   CV Folds: 5
+   Scoring Metric: Accuracy
+
+📈 MODELS TRAINED & COMPARED
+   1. XGBoost (Tuned): 82.35%
+   2. LightGBM (Tuned): 76.47%
+   3. Gradient Boosting (Tuned): 82.35%
+   4. Stacking Ensemble: 76.47%
+
+💾 SAVED ARTIFACTS
+   ✓ best_tuned_model.pkl
+   ✓ scaler_tuned.pkl
+   ✓ label_encoder_tuned.pkl
+   ✓ feature_columns.json
+   ✓ best_model_hyperparams.json
+   ✓ predictions_best_tuned_model.csv
+   ✓ final_model_comparison.csv
+   ✓ top_15_features_importance.png
+
+✅ STATUS: MODEL READY FOR PRODUCTION
+
+═══════════════════════════════════════════════════════════════════════════════
